@@ -1,6 +1,6 @@
 # 💻 Sondos Quraan
 
-### Software Developer | NGO Project Coordinator | BMS Specialist
+### Software Developer | NGO Project Coordinator 
 
 ---
 
@@ -23,5 +23,6 @@ I’m a **Software Developer** with a strong background in **web development, au
 I combine technical expertise with a passion for social impact through digital transformation and project management.  
 
 ✉️ **Contact:** [qraansondos@gmail.com](mailto:qraansondos@gmail.com)  
-📫 **LinkedIn:** [Sondos Quraan](https://www.linkedin.com/in/sondosquraan/)
 🔗 **Portfolio:** [GitHub Profile](https://github.com/sondosquraan)
+📫 **LinkedIn:** [Sondos Quraan](https://www.linkedin.com/in/sondosquraan/)
+
